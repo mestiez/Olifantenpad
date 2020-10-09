@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "id": "olifantenpad",
+  "version": "${version}",
+  "name": "Olifantenpad",
+  "description": "Desire paths are generated in the world when players traverse them often enough",
+  "authors": [
+    "zooi"
+  ],
+  "contributors": [],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/olifantenpad/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "nl.studiominus.olifantenpad.OlifantenpadInitialiser"
+    ],
+    "client": [],
+    "server": []
+  },
+  "mixins": [
+    "olifantenpad.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.10.1",
+    "fabric": "*"
+  }
+}
