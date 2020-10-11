@@ -1,0 +1,9 @@
+{
+  "text.autoconfig.olifantenpad.title":  "Olifantenpad Settings",
+  "text.autoconfig.olifantenpad.option.pathSoftnessMultiplier": "Path Softness",
+  "text.autoconfig.olifantenpad.option.pathSoftnessMultiplier.@Tooltip": "Determines how quickly a path is carved" ,
+  "text.autoconfig.olifantenpad.option.chance": "Carve chance",
+  "text.autoconfig.olifantenpad.option.chance.@Tooltip": "The chance a block is changed at the required depth",
+  "text.autoconfig.olifantenpad.option.sneakSafe": "Soft sneaking",
+  "text.autoconfig.olifantenpad.option.sneakSafe.@Tooltip": "Paths won't be carved when the player is sneaking"
+}

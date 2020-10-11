@@ -1,0 +1,9 @@
+{
+  "text.autoconfig.olifantenpad.title":  "Olifantenpad Configuratie",
+  "text.autoconfig.olifantenpad.option.pathSoftnessMultiplier": "Pad Zachtheid",
+  "text.autoconfig.olifantenpad.option.pathSoftnessMultiplier.@Tooltip": "Bepaalt hoe makkelijk een olifantenpad wordt gegraven",
+  "text.autoconfig.olifantenpad.option.chance": "Graafkans",
+  "text.autoconfig.olifantenpad.option.chance.@Tooltip": "De kans dat een olifantenpad wordt gegraven wanneer de benodigde diepte is bereikt",
+  "text.autoconfig.olifantenpad.option.sneakSafe": "Zacht sluipen",
+  "text.autoconfig.olifantenpad.option.sneakSafe.@Tooltip": "Olifantenpaden worden niet gegraven als de speler sluipt"
+}

@@ -16,14 +16,21 @@
     "main": [
       "nl.studiominus.olifantenpad.OlifantenpadInitialiser"
     ],
+    "modmenu": [
+      "nl.studiominus.olifantenpad.config.ModMenuIntegration"
+    ],
     "client": [],
     "server": []
   },
   "mixins": [
     "olifantenpad.mixins.json"
   ],
+  "custom": {
+    "modmenu:clientsideOnly": false
+  },
   "depends": {
-    "fabricloader": ">=0.10.1",
+    "minecraft": "1.16.x",
+    "fabricloader": ">=0.7.1",
     "fabric": "*"
   }
 }
